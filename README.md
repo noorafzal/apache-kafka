@@ -1,2 +1,2 @@
-# apache-kafka
-Kafka samples for demo and learning
+# Apache Kafka
+Apache Kafka samples for demo and learning
